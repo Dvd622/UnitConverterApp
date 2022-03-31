@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="spinner_string">spinner_string</string>
+    <string name="image_button_length">image_button_length</string>
+    <string name="image_button_temperature">image_button_temperature</string>
+    <string name="image_button_weight">image_button_weight</string>
+    <string name="tv_unit1">tv_unit1</string>
+    <string name="tv_unit2">tv_unit2</string>
+    <string name="tv_unit3">tv_unit3</string>
+    <string name="tv_value1">tv_value1</string>
+    <string name="tv_value2">tv_value2</string>
+    <string name="tv_value3">tv_value3</string>
+    <string name="enter_value">Enter value</string>
+    <string-array name="units_array">
+        <item>Metres</item>
+        <item>Celsius</item>
+        <item>Kilograms</item>
+    </string-array>
+</resources>
